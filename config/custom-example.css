@@ -1,8 +1,12 @@
+body {
+    background: #EEE url("https://wallpapercave.com/wp/wp1890891.jpg") no-repeat left fixed;
+}
+
 /***************
   * Chat Colors *
  **************/
  
- .chat.chatmessage-aflyingphantom em {Color:#6f339f}
+ .chat.chatmessage-zeruora em {Color:#6f339f}
  
 
 

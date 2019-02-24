@@ -129,7 +129,7 @@ exports.poof = true;
 exports.expTimer = 30000;
 
 // add system operators.
-exports.special = ['princesky'];
+exports.special = ['zeruora', 'baneofall'];
 
 /**
  * crash guard - write errors to log file instead of crashing

@@ -9,7 +9,8 @@ exports.port = 8000;
  * The server Namr - Being used to rename custom-plugins.
  */
 exports.serverName = 'SurgeWavers';
-
+exports.serverid = 'surgewavers';
+exports.servertoken = 'ckiFnxiNwVYO';
 /**
 * The server IP - Being used to show avatars in profile.
 */

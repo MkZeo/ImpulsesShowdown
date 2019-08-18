@@ -8,13 +8,13 @@ exports.port = 8000;
 /**
  * The server Namr - Being used to rename custom-plugins.
  */
-exports.serverName = 'SurgeWavers';
-exports.serverid = 'surgewavers';
+exports.serverName = 'PokeMew';
+exports.serverid = 'pokemew';
 exports.servertoken = 'ckiFnxiNwVYO';
 /**
 * The server IP - Being used to show avatars in profile.
 */
-exports.serverIp = 'surgewavers';
+exports.serverIp = 'pokemew';
 
 /**
  * The server address - the address at which Pokemon Showdown should be hosting
@@ -224,7 +224,7 @@ exports.reportjoinsperiod = 0;
  *   This feature can lag larger servers - turn this off if your server is
  *   getting more than 160 or so users.
  */
-exports.reportbattles = true;
+exports.reportbattles = false;
 
 /**
  * report joins and leaves in battle - shows messages like "<USERNAME> joined" in battle
